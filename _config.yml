@@ -37,9 +37,13 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-
-# I added this for Google Analytics
-google_analytics: G-TN2F2FVS54
       type: post
     values:
       tags: Other
+
+#########################################################################################
+######### My additions
+#########################################################################################
+
+# I added this for Google Analytics
+google_analytics: G-TN2F2FVS54
